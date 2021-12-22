@@ -134,7 +134,7 @@ function WarehouseDetails(props) {
 
 
             <div >
-                <h2>Edit Warehouse Details:</h2>
+                <h2 style={{marginLeft:"18px"}}>Edit Warehouse Details:</h2>
                 <div className='edit-item-container'>
                     <div id="edit-item">
 
