@@ -3,7 +3,7 @@ page 1
 <image src="https://github.com/vaibhavk2474/SA-assignment/blob/main/public/pic_01.png" height:100 width:100>
  
 page 2
-  <image src="https://github.com/vaibhavk2474/SA-assignment/blob/main/public/pic.png" height:100 width:100>
+  <image src="https://github.com/vaibhavk2474/SA-assignment/blob/main/public/CapturedImage-22-12-2021%2021-11-13.png" height:100 width:100>
  
 
 ## Getting Started with Create React App
