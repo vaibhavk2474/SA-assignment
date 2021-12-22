@@ -1,6 +1,7 @@
-# project View:
-<image src="https://github.com/vaibhavk2474/SA-assignment/blob/main/public/pic_01.png" height:100 width:200>
-# Getting Started with Create React App
+## project View:
+<image src="https://github.com/vaibhavk2474/SA-assignment/blob/main/public/pic_01.png" height:100 width:100>
+  
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
